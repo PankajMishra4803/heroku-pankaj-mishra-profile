@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0dace6"],{"6cbe":function(e,t,n){"use strict";n.r(t);var c=function(){var e=this,t=e.$createElement;e._self._c;return e._m(0)},i=[function(){var e=this,t=e.$createElement,n=e._self._c||t;return n("div",{staticClass:"certificate"},[n("h1",[e._v("This is an certification page")])])}],a=n("2877"),s={},r=Object(a["a"])(s,c,i,!1,null,null,null);t["default"]=r.exports}}]);
+//# sourceMappingURL=chunk-2d0dace6.1fb4f3ba.js.map
