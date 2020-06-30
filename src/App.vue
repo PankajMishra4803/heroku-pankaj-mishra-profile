@@ -53,10 +53,10 @@
       <router-view></router-view>
     </v-container>
   </v-main>
-
+<!-- 
   <v-footer app color="#efefef">
-          <div>This is Footer</div>
-  </v-footer>
+          <div  justify="center" >This is Footer</div>
+  </v-footer> -->
 </v-app>
 </template>
 

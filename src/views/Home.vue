@@ -99,19 +99,19 @@
               <p class="domain-summary" style="float:left;width:400px">
                 HEALTHCARE SERVICES
               </p>
-              <span style="float:right">2Year(s) 7Month(s) </span>
+              <span style="float:right">3Year(s) 5Month(s) </span>
             </div>
             <div>
               <p class="domain-summary" style="float:left;width:400px">
                 MANUFACTURING
               </p>
-              <span style="float:right">6Month(s)</span>
+              <span style="float:right">1Year 6Month(s)</span>
             </div>
             <div>
               <p class="domain-summary" style="float:left;width:400px">
                 BANKING AND FINANCE
               </p>
-              <span style="float:right">2Year(s) 2Month(s)</span>
+              <span style="float:right">2Year(s) 6Month(s)</span>
             </div>
           </v-card-text>
         </v-card>

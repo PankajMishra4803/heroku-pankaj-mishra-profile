@@ -16,15 +16,15 @@
           }}</v-card-title>
           <v-card-text>
             <p>
-              <span>CollageName:</span
+              <span class="font-weight-bold">CollageName: &nbsp;</span
               ><span>{{ qualification.schoolName }}</span>
             </p>
             <p>
-              <span>CGPPercentage:</span
+              <span class="font-weight-bold">CGPPercentage:&nbsp;</span
               ><span style="float:;left">{{ qualification.CGP }}</span>
             </p>
             <p>
-              <span>YearOfPassing:</span
+              <span class="font-weight-bold">YearOfPassing:&nbsp;</span
               ><span style="float:;left">{{
                 qualification.yearOfPassing
               }}</span>
@@ -58,25 +58,25 @@ export default {
       qualifications: [
         {
           classname: "M.Tech",
-          schoolName: "Birla",
-          CGP: "5.5",
+          schoolName: "Birla Institute of Technology and Science, Pilani",
+          CGP: "5.56",
           yearOfPassing: "2018",
         },
         {
           classname: "BCA",
-          schoolName: "NSHM",
-          CGP: "7.0",
+          schoolName: "NSHM College of Management and Technology",
+          CGP: "7.04",
           yearOfPassing: "2012",
         },
         {
-          classname: "High Seconday",
-          schoolName: "Birla",
+          classname: "High Secondary",
+          schoolName: "SP college(Jharkhand Board)",
           CGP: "56%",
           yearOfPassing: "2008",
         },
         {
           classname: "Secondary",
-          schoolName: "Birla",
+          schoolName: "S.N.S.High School(Bihar Board)",
           CGP: "71%",
           yearOfPassing: "2006",
         },
